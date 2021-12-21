@@ -77,5 +77,18 @@ Makefile                 1 repo              █░░░░░░░░░░�
  Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
+<table>
+<tr>
+<td width="70%" valign="top">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aixasz&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/aixasz"><img src="https://api.daily.dev/devcards/403207936e6547c9a85ea449e9f3abe8.png?r=re8" width="320" alt="Nattapong Nunpan's Dev Card"/></a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=aixasz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ </td>
+<td width="30%" valign="top">
+ 
+<a href="https://app.daily.dev/aixasz"><img src="https://api.daily.dev/devcards/403207936e6547c9a85ea449e9f3abe8.png?r=re8" alt="Nattapong Nunpan's Dev Card"/></a>
+
+ </td>
+</tr>
+</table>
+ 
