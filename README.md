@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 400 Contributions in the Year 2021
+> 🏆 401 Contributions in the Year 2021
  > 
-> 📦 210.1 kB Used in GitHub's Storage 
+> 📦 210.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,8 +30,8 @@
 Monday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
 Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
 Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Thursday     84 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+Thursday     85 commits     █████░░░░░░░░░░░░░░░░░░░░   21.46% 
+Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
 Sunday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4%
 
@@ -46,16 +44,17 @@ Sunday       61 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ██████████████░░░░░░░░░░░   56.22% 
+C#                       2 mins              ███████████░░░░░░░░░░░░░░   43.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ExamRegistration         4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +75,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aixasz/aixasz/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 <table>
