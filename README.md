@@ -44,13 +44,15 @@ Sunday       43 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       15 mins             ██████████████████████░░░   89.07% 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            17 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,7 +73,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aixasz/aixasz/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 18:42:04 UTC
+ Last Updated on 08/03/2022 18:41:39 UTC
 <!--END_SECTION:waka-->
 
 <table>
