@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 104 Contributions in the Year 2022
+> 🏆 107 Contributions in the Year 2022
  > 
-> 📦 213.1 kB Used in GitHub's Storage 
+> 📦 213.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 70 Public Repositories 
+> 📜 71 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -44,16 +44,16 @@ Sunday       43 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       37 mins             █████████████░░░░░░░░░░░░   54.09% 
-Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55% 
-XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
+C#                       15 mins             ███████████████░░░░░░░░░░   61.13% 
+XML                      8 mins              ████████░░░░░░░░░░░░░░░░░   34.66% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 🔥 Editors: 
-Visual Studio            1 hr 9 mins         █████████████████████████   100.0%
+Visual Studio            25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+Windows                  25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +74,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aixasz/aixasz/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/04/2022 18:44:10 UTC
+ Last Updated on 01/05/2022 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 <table>
