@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -77,7 +77,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aixasz/aixasz/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:43:35 UTC
+ Last Updated on 12/05/2022 18:45:26 UTC
 <!--END_SECTION:waka-->
 
 <table>
