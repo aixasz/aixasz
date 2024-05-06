@@ -69,10 +69,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
-
 
  Last Updated on 05/05/2024 18:39:08 UTC
 <!--END_SECTION:waka-->
