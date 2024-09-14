@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 242.6 kB Used in GitHub's Storage 
- > 
-> 🏆 172 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +73,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:42:26 UTC
+ Last Updated on 14/09/2024 18:41:28 UTC
 <!--END_SECTION:waka-->
 
 <table>
