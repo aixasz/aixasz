@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 253.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +42,16 @@ Sunday                   2748 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     50 mins             ████████████████████░░░░░   79.93 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 1 hr 10 mins        ██████████████████████░░░   87.25 % 
+C#                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+Obsidian                 1 hr 3 mins         ████████████████████░░░░░   78.51 % 
+Visual Studio            10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -73,7 +71,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 18:43:19 UTC
+ Last Updated on 03/01/2025 18:43:19 UTC
 <!--END_SECTION:waka-->
 
 <table>
