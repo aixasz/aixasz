@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,13 +44,15 @@ Sunday                   3137 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     2 hrs 5 mins        █████████████████████████   100.00 % 
+YAML                     1 hr 42 mins        ███████████████████░░░░░░   76.27 % 
+Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        ███████████████████░░░░░░   76.27 % 
+Obsidian                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -70,7 +72,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2025 18:45:29 UTC
+ Last Updated on 25/10/2025 18:43:55 UTC
 <!--END_SECTION:waka-->
 
 <table>
