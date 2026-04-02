@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C948%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C952%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 259.3 kB Used in GitHub's Storage 
+> 📦 259.6 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 100 Public Repositories 
+> 📜 101 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -44,18 +44,18 @@ Sunday                   3168 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
-C#                       4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Other                    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-CSV                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
+C#                       5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Other                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+SQL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+CSV                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      ██████████████████████░░░   87.75 % 
-Obsidian                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+VS Code                  13 hrs 57 mins      ██████████████████████░░░   89.59 % 
+Obsidian                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 
 💻 Operating System: 
-Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -75,7 +75,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 19:00:30 UTC
+ Last Updated on 02/04/2026 19:03:18 UTC
 <!--END_SECTION:waka-->
 
 <table>
