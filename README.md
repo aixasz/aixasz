@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C379%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C379%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,15 +44,15 @@ Sunday                   3327 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.77 % 
-TypeScript               4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-C#                       3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Markdown                 10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
+TypeScript               4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+C#                       3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 JavaScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 57 mins      ██████████████████░░░░░░░   72.88 % 
-Claude Code              5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+VS Code                  17 hrs 58 mins      ██████████████████░░░░░░░   72.89 % 
+Claude Code              5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 Obsidian                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 💻 Operating System: 
@@ -76,7 +76,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:50:57 UTC
+ Last Updated on 26/07/2026 19:51:52 UTC
 <!--END_SECTION:waka-->
 
 <table>
