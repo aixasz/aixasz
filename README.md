@@ -1,21 +1,21 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C196%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C198%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 259.8 kB Used in GitHub's Storage 
+> 📦 260.1 kB Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2026
+> 🏆 188 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 101 Public Repositories 
+> 📜 102 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -46,43 +46,43 @@ Sunday                   3381 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 8 hrs 32 mins       ██████████████░░░░░░░░░░░   56.67 % 
-C#                       2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown                 9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.66 % 
+C#                       2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 36 mins       ██████████████░░░░░░░░░░░   57.15 % 
-Claude Code              3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Obsidian                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+VS Code                  10 hrs 25 mins      ███████████████░░░░░░░░░░   61.78 % 
+Claude Code              3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Obsidian                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 
 💻 Operating System: 
-Windows                  15 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 47 mins (84.86%)
+⏱ AI Coding Time: 14 hrs 36 mins (86.49%)
 
-✍️ 23,370 lines written by AI, 46 lines written by hand (99.8% AI-written)
+✍️ 23,921 lines written by AI, 46 lines written by hand (99.81% AI-written)
 
-🔤 166,853,739 Input Tokens, 714,523 Output Tokens
+🔤 192,299,615 Input Tokens, 793,717 Output Tokens
 
-💵 $596.24 Estimated AI Cost This Week
+💵 $673.76 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 55 AI Prompts
+🧠 12 AI Sessions, 68 AI Prompts
 
-Fable                    19,701 lines        █████████████████████░░░░   82.74 % 
-Opus                     4,109 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Fable                    20,253 lines        █████████████████████░░░░   83.13 % 
+Opus                     4,109 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 1,967 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📚 Verbose Prompter — average 1,615 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +102,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:54:12 UTC
+ Last Updated on 04/08/2026 20:20:47 UTC
 <!--END_SECTION:waka-->
 
 <table>
