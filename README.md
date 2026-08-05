@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C198%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C203%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 260.1 kB Used in GitHub's Storage 
+> 📦 260.3 kB Used in GitHub's Storage 
  > 
 > 🏆 188 Contributions in the Year 2026
  > 
@@ -46,43 +46,43 @@ Sunday                   3381 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.66 % 
-C#                       2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown                 9 hrs 14 mins       ████████████████░░░░░░░░░   65.27 % 
+Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+C#                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 25 mins      ███████████████░░░░░░░░░░   61.78 % 
-Claude Code              3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Obsidian                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+VS Code                  6 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
+Obsidian                 4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
+Claude Code              2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 
 💻 Operating System: 
-Windows                  16 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 36 mins (86.49%)
+⏱ AI Coding Time: 9 hrs 38 mins (68.11%)
 
-✍️ 23,921 lines written by AI, 46 lines written by hand (99.81% AI-written)
+✍️ 8,561 lines written by AI, 9 lines written by hand (99.89% AI-written)
 
-🔤 192,299,615 Input Tokens, 793,717 Output Tokens
+🔤 112,649,104 Input Tokens, 417,615 Output Tokens
 
-💵 $673.76 Estimated AI Cost This Week
+💵 $384.23 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 68 AI Prompts
+🧠 12 AI Sessions, 57 AI Prompts
 
-Fable                    20,253 lines        █████████████████████░░░░   83.13 % 
-Opus                     4,109 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Opus                     5,799 lines         █████████████████░░░░░░░░   66.54 % 
+Fable                    2,916 lines         ████████░░░░░░░░░░░░░░░░░   33.46 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 1,615 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 2,035 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +102,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:20:47 UTC
+ Last Updated on 05/08/2026 20:19:48 UTC
 <!--END_SECTION:waka-->
 
 <table>
