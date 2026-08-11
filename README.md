@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C241%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,44 +46,44 @@ Sunday                   3398 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 29 hrs 21 mins      █████████████████░░░░░░░░   66.19 % 
-Rust                     4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Other                    3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Python                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-TypeScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 28 hrs 44 mins      ████████████████░░░░░░░░░   62.84 % 
+Rust                     4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Other                    3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Python                   2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+C#                       1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 1 min        ██████████████████░░░░░░░   72.21 % 
-VS Code                  8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Obsidian                 4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Claude Code              33 hrs 36 mins      ██████████████████░░░░░░░   73.46 % 
+VS Code                  8 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Obsidian                 3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 💻 Operating System: 
-Windows                  44 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  45 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 38 mins (89.37%)
+⏱ AI Coding Time: 41 hrs 16 mins (90.23%)
 
-✍️ 57,165 lines written by AI, 17 lines written by hand (99.97% AI-written)
+✍️ 58,419 lines written by AI, 16 lines written by hand (99.97% AI-written)
 
-🔤 195,070,495 Input Tokens, 2,329,821 Output Tokens
+🔤 195,306,194 Input Tokens, 2,528,882 Output Tokens
 
-💵 $2348.51 Estimated AI Cost This Week
+💵 $2389.54 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 146 AI Prompts
+🧠 21 AI Sessions, 159 AI Prompts
 
-Opus                     26,961 lines        ████████████░░░░░░░░░░░░░   46.68 % 
-Fable                    24,396 lines        ███████████░░░░░░░░░░░░░░   42.24 % 
-GPT                      6,405 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Opus                     28,455 lines        ████████████░░░░░░░░░░░░░   48.02 % 
+Fable                    24,396 lines        ██████████░░░░░░░░░░░░░░░   41.17 % 
+GPT                      6,405 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 4,053 characters per prompt
+📚 Verbose Prompter — average 3,617 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:43:55 UTC
+ Last Updated on 11/08/2026 19:45:37 UTC
 <!--END_SECTION:waka-->
 
 <table>
