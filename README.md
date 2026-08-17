@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C265%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,47 +46,47 @@ Sunday                   3402 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 19 hrs 1 min        █████████████░░░░░░░░░░░░   51.07 % 
-C#                       5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JavaScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 13 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.83 % 
+C#                       5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+JavaScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Python                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 7 mins       ████████████████████░░░░░   78.16 % 
-Obsidian                 6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-VS Code                  1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Antigravity Desktop      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              21 hrs 40 mins      ███████████████████░░░░░░   74.46 % 
+Obsidian                 5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+VS Code                  1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Antigravity Desktop      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  37 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 53 mins (88.28%)
+⏱ AI Coding Time: 25 hrs 12 mins (86.59%)
 
-✍️ 29,818 lines written by AI, 305 lines written by hand (98.99% AI-written)
+✍️ 24,743 lines written by AI, 305 lines written by hand (98.78% AI-written)
 
-🔤 15,098,828 Input Tokens, 1,621,517 Output Tokens
+🔤 12,766,548 Input Tokens, 1,280,685 Output Tokens
 
-💵 $567.15 Estimated AI Cost This Week
+💵 $489.15 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 146 AI Prompts
+🧠 26 AI Sessions, 118 AI Prompts
 
-Opus                     30,332 lines        ████████████████████████░   97.39 % 
-Fable                    742 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Gemini                   70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Opus                     24,921 lines        ████████████████████████░   96.84 % 
+Fable                    742 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Gemini                   70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📚 Verbose Prompter — average 1,957 characters per prompt
+🤖 AI-Driven — 98.78% of written lines came from AI
+📄 Detailed Prompter — average 1,333 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.61% of changed lines were hand-edited
+🚀 High AI Trust — 4.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -106,7 +106,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:05:15 UTC
+ Last Updated on 17/08/2026 19:19:43 UTC
 <!--END_SECTION:waka-->
 
 <table>
