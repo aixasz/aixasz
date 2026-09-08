@@ -94,13 +94,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
-
-
  Last Updated on 07/09/2026 21:54:06 UTC
 <!--END_SECTION:waka-->
 
