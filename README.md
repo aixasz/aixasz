@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C348%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-501%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-505%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -11,7 +11,7 @@
 
 > 📦 279.5 kB Used in GitHub's Storage 
  > 
-> 🏆 645 Contributions in the Year 2026
+> 🏆 697 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9586 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌆 Daytime                13283 commits       █████████░░░░░░░░░░░░░░░░   35.81 % 
-🌃 Evening                9911 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-🌙 Night                  4316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌞 Morning                9607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌆 Daytime                13336 commits       █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                9940 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌙 Night                  4316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   4961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Tuesday                  5262 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                6336 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 6120 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Friday                   6378 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Saturday                 4269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Sunday                   3770 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Monday                   4961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  5262 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Wednesday                6336 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Thursday                 6223 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Friday                   6378 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 4269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Sunday                   3770 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 
 
@@ -46,40 +46,44 @@ Sunday                   3770 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 9 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.32 % 
-Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-C#                       2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 9 hrs 11 mins       █████████████░░░░░░░░░░░░   51.53 % 
+C#                       2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Other                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 35 mins      █████████████████████░░░░   85.92 % 
-VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Obsidian                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Claude Code              14 hrs 34 mins      ████████████████████░░░░░   81.66 % 
+Obsidian                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+VS Code                  1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  19 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 57 mins (92.91%)
+⏱ AI Coding Time: 16 hrs 18 mins (91.43%)
 
-✍️ 10,232 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 7,686 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 7,810,417 Input Tokens, 922,586 Output Tokens
+🔤 6,972,985 Input Tokens, 733,208 Output Tokens
 
-💵 $201.16 Estimated AI Cost This Week
+💵 $153.28 Estimated AI Cost This Week
 
 🧠 22 AI Sessions, 104 AI Prompts
 
-Fable                    10,483 lines        █████████████████████████   100.00 % 
+Fable                    5,920 lines         ███████████████████░░░░░░   74.95 % 
+Opus                     1,979 lines         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
+📄 Detailed Prompter — average 794 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -87,11 +91,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in C#** 
 
 ```text
-C#                       26 repos            ███████████░░░░░░░░░░░░░░   42.62 % 
-Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+C#                       26 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -101,7 +105,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:44:34 UTC
+ Last Updated on 17/09/2026 21:47:35 UTC
 <!--END_SECTION:waka-->
 
 <table>
