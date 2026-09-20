@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C362%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C366%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-521%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-526%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,47 +46,47 @@ Sunday                   3770 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 16 hrs              ██████████░░░░░░░░░░░░░░░   40.54 % 
-Python                   8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Other                    5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-C#                       3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Markdown                 12 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Python                   10 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Other                    7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+C#                       3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 40 mins      █████████████████████░░░░   85.27 % 
-VS Code                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Obsidian                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Codex Vscode             40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Visual Studio            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Claude Code              33 hrs 55 mins      █████████████████████░░░░   84.53 % 
+VS Code                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Obsidian                 2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Codex Vscode             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Visual Studio            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Windows                  39 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 14 mins (94.31%)
+⏱ AI Coding Time: 37 hrs 57 mins (94.6%)
 
-✍️ 31,238 lines written by AI, 114 lines written by hand (99.64% AI-written)
+✍️ 35,776 lines written by AI, 114 lines written by hand (99.68% AI-written)
 
-🔤 11,647,850 Input Tokens, 1,661,453 Output Tokens
+🔤 13,995,308 Input Tokens, 1,924,876 Output Tokens
 
-💵 $295.38 Estimated AI Cost This Week
+💵 $364.34 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 234 AI Prompts
+🧠 51 AI Sessions, 248 AI Prompts
 
-Fable                    20,807 lines        ████████████████░░░░░░░░░   65.87 % 
-Opus                     10,533 lines        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-GPT                      249 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Fable                    20,930 lines        ██████████████░░░░░░░░░░░   57.85 % 
+Opus                     14,999 lines        ██████████░░░░░░░░░░░░░░░   41.46 % 
+GPT                      249 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📄 Detailed Prompter — average 1,306 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📄 Detailed Prompter — average 1,262 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -106,7 +106,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:03:17 UTC
+ Last Updated on 20/09/2026 21:09:51 UTC
 <!--END_SECTION:waka-->
 
 <table>
