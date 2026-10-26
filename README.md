@@ -46,41 +46,41 @@ Sunday                   4443 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 11 hrs 11 mins      █████████████░░░░░░░░░░░░   53.96 % 
-Other                    3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-C#                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Markdown                 10 hrs 58 mins      ██████████████░░░░░░░░░░░   56.83 % 
+Other                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Python                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+C#                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 55 mins      ████████████████░░░░░░░░░   62.38 % 
-VS Code                  6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.12 % 
-Obsidian                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Claude Code              11 hrs 33 mins      ███████████████░░░░░░░░░░   59.83 % 
+VS Code                  6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+Obsidian                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 💻 Operating System: 
-Windows                  20 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 23 mins (74.25%)
+⏱ AI Coding Time: 14 hrs (72.57%)
 
-✍️ 10,705 lines written by AI, 90 lines written by hand (99.17% AI-written)
+✍️ 8,979 lines written by AI, 90 lines written by hand (99.01% AI-written)
 
-🔤 6,478,141 Input Tokens, 1,161,726 Output Tokens
+🔤 6,007,479 Input Tokens, 989,806 Output Tokens
 
-💵 $142.78 Estimated AI Cost This Week
+💵 $121.43 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 127 AI Prompts
+🧠 22 AI Sessions, 115 AI Prompts
 
-Opus                     10,832 lines        █████████████████████████   100.00 % 
+Opus                     9,106 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.17% of written lines came from AI
-📄 Detailed Prompter — average 718 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.91% of changed lines were hand-edited
+🤖 AI-Driven — 99.01% of written lines came from AI
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -100,7 +100,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:17:17 UTC
+ Last Updated on 26/10/2026 23:02:53 UTC
 <!--END_SECTION:waka-->
 
 <table>
