@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C480%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C482%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-649%20hrs%2016%20mins-blue?style=flat)
 
@@ -11,7 +11,7 @@
 
 > 📦 278.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,337 Contributions in the Year 2026
+> 🏆 1,339 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,7 +22,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11604 commits       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌞 Morning                11606 commits       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
 🌆 Daytime                15490 commits       █████████░░░░░░░░░░░░░░░░   35.07 % 
 🌃 Evening                12146 commits       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
 🌙 Night                  4929 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
@@ -33,9 +33,9 @@
 Monday                   5128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Tuesday                  5775 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Wednesday                6343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 8334 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Thursday                 8336 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 Friday                   8596 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Saturday                 5550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 5550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 Sunday                   4443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
@@ -46,41 +46,41 @@ Sunday                   4443 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 11 hrs 44 mins      ███████████████████░░░░░░   75.99 % 
-Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-C#                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 9 hrs 44 mins       ███████████████████░░░░░░   75.17 % 
+Other                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+C#                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 11 mins       █████████████░░░░░░░░░░░░   53.07 % 
-VS Code                  5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-Obsidian                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Claude Code              7 hrs 56 mins       ███████████████░░░░░░░░░░   61.27 % 
+Obsidian                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+VS Code                  2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 💻 Operating System: 
-Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (60.11%)
+⏱ AI Coding Time: 8 hrs 25 mins (64.97%)
 
-✍️ 8,056 lines written by AI, 493 lines written by hand (94.23% AI-written)
+✍️ 7,766 lines written by AI, 596 lines written by hand (92.87% AI-written)
 
-🔤 4,767,718 Input Tokens, 730,563 Output Tokens
+🔤 4,494,672 Input Tokens, 658,414 Output Tokens
 
-💵 $93.71 Estimated AI Cost This Week
+💵 $85.52 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 53 AI Prompts
+🧠 10 AI Sessions, 42 AI Prompts
 
-Opus                     8,064 lines         █████████████████████████   100.00 % 
+Opus                     7,774 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.23% of written lines came from AI
-📄 Detailed Prompter — average 1,170 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.3% of changed lines were hand-edited
+🤖 AI-Driven — 92.87% of written lines came from AI
+📄 Detailed Prompter — average 1,374 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 8.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -100,7 +100,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aixasz/aixasz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:57:50 UTC
+ Last Updated on 29/10/2026 23:04:51 UTC
 <!--END_SECTION:waka-->
 
 <table>
